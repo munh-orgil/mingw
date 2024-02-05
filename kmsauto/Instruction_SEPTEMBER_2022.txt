@@ -1,0 +1,35 @@
+Supported OS 
+
+Windows Vista                       Windows Server 2008/2008R2  AND    Microsoft Office 2010
+Windows 7 (Ultimate not support)                   2012/2012R2         Microsoft Office 2013
+Windows 8/8.1                                      2016                Microsoft Office 2016
+Windows 10                                         2019                Microsoft Office 2019
+Windows 11                                                             Microsoft Office 2021
+                        
+For Windows 7 and Windows Vista Required Net Framework 4.5+
+
+Before activating Windows, it is strongly recommended to remove all previous activators and restart the PC.
+
+!!!TIP: Strictly follow this instruction step by step, and then you will not encounter problems activating windows.
+
+
+
+1. Turn Off your Windows Defender (You should manually disable Tamper Protection, Real-Time protection and Auto Sample submission) or another AntiVirus Software for 3 minutes...
+
+2. Enable Activation Config using configuration file "EnableActivationConfig.reg" (Press Run, Yes, Ok).
+
+3. Now unzip the archive "KMSAutoLite_1.6.5.rar", password => 12345
+
+4. Now you need to right-click on the KMSAuto Lite icon and then click on Run as Administrator x64 for 64bit system, x32 for 32bit system.
+
+5. If you already have the Windows key installed (HWID), just click Activate Windows, 
+   If you do not have a HWID key, go to step 6
+
+6. In the main window click "Install Keys", go to the Microsoft product list and select windows OS from the list. After that click "Install"
+
+7. After the Key is installed just click "Activate Windows" on the left side of The KMSAuto Lite
+   This process will take a few seconds to complete.
+   After that, you can see a message "The machine is permanently activated" OR "ACTIVATION SUCCESSFULL".
+   Enjoy! You activated Windows 11.
+
+!!!FORCE Reboot PC!!!
